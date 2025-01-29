@@ -1,4 +1,4 @@
-#write a program to find the largest and smallest element in the array
+#write a program to find the largest and smallest element in the array and second largest and second smallest in the array
 arr =['10','89','9','56','4','80','8']
 mini = 10
 maxi = 10
